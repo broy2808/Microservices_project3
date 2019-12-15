@@ -1,0 +1,39 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>MyPlaylist</title>
+  <info>broy@gmail.com</info>
+  <creator>Bony Roy</creator>
+  <trackList>
+    <track>
+      <identifier>http://localhost:9000/media/file1.m4a</identifier>
+      <title>Shape of you</title>
+      <creator>Aleckie</creator>
+      <annotation>My Favourite Track2</annotation>
+      <album>shape of you</album>
+      <duration>2.30</duration>
+    </track>
+    <track>
+      <identifier>http://localhost:9000/media/file2.mp3</identifier>
+      <title>Shape of you 2</title>
+      <creator>Aleckie</creator>
+      <annotation>My Favourite Track2</annotation>
+      <album>shape of you 2</album>
+      <duration>2.30</duration>
+    </track>
+    <track>
+      <identifier>http://localhost:9000/media/file3.mp3</identifier>
+      <title>Shape of you 3</title>
+      <creator>Aleckie</creator>
+      <annotation>My Favourite Track2</annotation>
+      <album>shape of you 3</album>
+      <duration>2.30</duration>
+    </track>
+    <track>
+      <identifier>http://localhost:9000/media/file4.mp3</identifier>
+      <title>Shape of you 4</title>
+      <creator>Aleckie</creator>
+      <annotation>My Favourite Track2</annotation>
+      <album>shape of you 4</album>
+      <duration>2.30</duration>
+    </track>
+  </trackList>
+</playlist>
